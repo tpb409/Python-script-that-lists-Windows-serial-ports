@@ -4,6 +4,7 @@
 # Using tkinter for a GUI
 #
 # Started Aug 24, 2018
+# Uploaded to GIT Sept 17,2018
 #
 #
 

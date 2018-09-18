@@ -1,2 +1,2 @@
 # ok-software
-Various short projects, various languages
+port_id is a Python program that identifies any serial ports that are being used.

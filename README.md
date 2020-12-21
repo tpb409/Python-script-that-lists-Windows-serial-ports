@@ -1,4 +1,4 @@
-# ok-software
+# Python script that lists Windows serial ports.
 
 tpb_port_id.py
 
